@@ -8,4 +8,4 @@
 - 所有 bullet 带 status + fact_id，可追溯到 Evidence Registry。
 
 ## 文件
-- `master_resume.md`：完整 Master Resume ✅（已生成，含教育 + 3 实习 + 核心项目 + 扩展项目库 + 论文/科研 + 奖项 + 技能，全带 fact_id）
+- `master_resume.md`：完整 Master Resume ✅
