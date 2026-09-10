@@ -1,6 +1,6 @@
-# Resume Pipeline · 简历智能系统
+# Resume Intelligence System · 简历智能系统
 
-A resume pipeline built with **[Claude Code](https://claude.ai/code)** — a human-in-the-loop system that turns raw evidence into targeted, bilingual, fact-checkable résumés (DOCX + PDF) plus a public portfolio site.
+A resume intelligence system built with **[Claude Code](https://claude.ai/code)** — a human-in-the-loop system that turns raw evidence into targeted, bilingual, fact-checkable résumés (DOCX + PDF) plus a public portfolio site.
 
 > This repo shows the **methodology and automation** (rules + Claude Code skills). The actual personal résumé data is kept private — see [What's public vs private](#whats-public-vs-private).
 
