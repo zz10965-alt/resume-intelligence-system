@@ -1,0 +1,21 @@
+# ── Personal data — NEVER commit ─────────────────────────────
+source/
+jd/
+output/
+market_profiles/
+archive/
+resume/master/*.md
+!resume/master/README.md
+resume/base_variants/*.md
+!resume/base_variants/README.md
+PROGRESS.md
+.claude/tmp/
+
+# ── Generated binaries ───────────────────────────────────────
+*.docx
+*.pdf
+*.xlsx
+
+# ── OS / editor ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
